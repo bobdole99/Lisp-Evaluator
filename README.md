@@ -4,17 +4,24 @@ Assignment 2
 Michael Gugala
 
 Files included in directory:
-BoundedStack.java
-BoundStackLinkedList.java
-FullStackException.java
-InvalidExpressionException.java
-LispEvaluator.java
-LispTester.java
-StackInt.java
-README.txt
-RUN.sh
-Assignment2Questions.doc
 
+BoundedStack.java
+
+BoundStackLinkedList.java
+
+FullStackException.java
+
+InvalidExpressionException.java
+
+LispEvaluator.java
+
+LispTester.java
+
+StackInt.java
+
+README.txt
+
+RUN.sh
 
 
 Additional required downloads:
